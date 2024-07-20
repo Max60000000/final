@@ -27,7 +27,7 @@ const FoodCard = ({ id, name, price, desc, img, rating, handleToast }) => {
             dispatch(addToCart({ id, name, price, rating, img, qty: 1 })) 
           }}
           
-          className="p-1 text-white bg-primary hover:bg-green-600 rounded-lg text-sm"
+          className="p-1 text-white bg-primary bg-green-600 rounded-lg text-sm"
         >
           Add to cart
         </button>
