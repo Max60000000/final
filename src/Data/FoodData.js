@@ -70,7 +70,27 @@ const FoodData = [
     "desc": "Cold drink made with water, sugar, and sometimes lemon or other flavors.",
     "category": "Drink",
     "rating": 4.3
-  }
+  },
+  {
+    "id": 7,
+    "img":
+"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlQ6vpHYG89V1l0HGWvGQqqOfdciicb8gAzQ&s",
+    "name": "Thukpa",
+    "price": 30,
+    "desc": "Cold drink made with water, sugar, and sometimes lemon or other flavors.",
+    "category": "Veggie",
+    "rating": 4.3
+  },
+  {
+    "id": 7,
+    "img":
+"https://tiimg.tistatic.com/fp/1/007/710/hygienically-packed-no-artificial-colors-mouth-watering-tasty-refreshing-sprite-cold-drink-868.jpg",
+    "name": "Spirit",
+    "price": 30,
+    "desc": "Cold drink made with water, sugar, and sometimes lemon or other flavors.",
+    "category": "Drink",
+    "rating": 4.3
+  },
 ];
 
 export default FoodData;
