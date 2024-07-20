@@ -3,7 +3,6 @@ import { IoMdClose } from "react-icons/io";
 import ItemCard from "../ItemCard/ItemCard";
 import { useSelector } from "react-redux";
 import { FaShoppingCart } from "react-icons/fa";
-import Success from "../../pages/Success";
 import { useNavigate } from "react-router-dom";
 
 const Cart = () => {
