@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import FoodData from "../../Data/FoodData";
 import { useDispatch, useSelector } from "react-redux";
-import  { setCategory } from "../../redux/slices/CategorySlice";
+import { setCategory } from "../../redux/slices/CategorySlice";
 
 const CategoryMenu = () => {
   const [categories, setCategories] = useState([]);
