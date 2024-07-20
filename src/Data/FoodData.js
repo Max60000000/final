@@ -82,10 +82,20 @@ const FoodData = [
     "rating": 4.3
   },
   {
-    "id": 7,
+    "id": 8,
     "img":
 "https://tiimg.tistatic.com/fp/1/007/710/hygienically-packed-no-artificial-colors-mouth-watering-tasty-refreshing-sprite-cold-drink-868.jpg",
     "name": "Spirit",
+    "price": 30,
+    "desc": "Cold drink made with water, sugar, and sometimes lemon or other flavors.",
+    "category": "Drink",
+    "rating": 4.3
+  },
+  {
+    "id": 9,
+    "img":
+"https://frugivore-bucket.s3.amazonaws.com/media/package/img_one/2020-10-17/Mountain_Dew__Soft_Drink_-_Mountain_Dew_Bottle__600_Ml_.jpg",
+    "name": "Mountain Dew",
     "price": 30,
     "desc": "Cold drink made with water, sugar, and sometimes lemon or other flavors.",
     "category": "Drink",
